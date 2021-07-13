@@ -1,11 +1,13 @@
 <template>
-  <router-view />
+  <h1>Result</h1>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  components: {
-  }
+  name: 'ResultPage'
 }
 </script>
+
+<style>
+
+</style>
